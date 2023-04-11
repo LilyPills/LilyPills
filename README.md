@@ -9,7 +9,6 @@
   <img align="center" alt="Lily-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lily-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lily-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lily-Lua" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png">
   <img align="right" alt="Lily-pic" height="300" style="border-radius:100px;"  src="https://cdn.discordapp.com/attachments/832647246889353276/1084288156003745882/407027_lHIbPp8D.png">
                                                                                     
   
