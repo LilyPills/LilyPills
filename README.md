@@ -3,8 +3,10 @@
 ### I'm Letícia (Lily) Santiago
 
 👩🏻‍💻 Beginner Computer Programmer</br>
-👩🏻‍🎓 Graduated at the Technical Level in Systems Analysis and Development</br>
-💭 Studying Animation Design</br>
+👩🏻‍🎓 Graduated in Technical High School – Systems Analysis & Development</br>
+🎓 Graduated in Animation Design</br>
+💭 Studying Information Security</br>
+🛡️ Security Intern</br>
 🎨 [Illustrator](https://lilypills.carrd.co)
 
 
