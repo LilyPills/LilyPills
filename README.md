@@ -5,7 +5,7 @@
 👩🏻‍💻 Tech lover</br>
 🎓 Graduated in Animation Design</br>
 💭 Studying Information Security</br>
-💭 Postgraduate studies 
+💭 Postgraduate studies <br>
    (DataBase + Information Security + Cybercrime and Cybersecurity: Prevention and Investigation of Digital Crimes) </br>
 🛡️ Security Intern</br>
 
