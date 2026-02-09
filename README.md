@@ -3,14 +3,15 @@
 ### I'm Letícia (Lily) Santiago
 
 👩🏻‍💻 Dev</br>
-👩🏻‍🎓 Graduated in Technical High School – Systems Analysis & Development</br>
 🎓 Graduated in Animation Design</br>
 💭 Studying Information Security</br>
+💭 Postgraduate studies (DataBase + Information Security + Cybercrime and Cybersecurity: Prevention and Investigation of Digital Crimes) </br>
 🛡️ Security Intern</br>
 
 
 
 <!-- ## 🌐 Socials:
+👩🏻‍🎓 Graduated in Technical High School – Systems Analysis & Development</br>
 🎨 [Illustrator](https://lilypills.carrd.co)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/lilypills_) 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/lilypills_) 
