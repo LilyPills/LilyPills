@@ -2,15 +2,16 @@
 
 ### I'm Letícia (Lily) Santiago
 
-👩🏻‍💻 Beginner Computer Programmer</br>
+👩🏻‍💻 Dev</br>
 👩🏻‍🎓 Graduated in Technical High School – Systems Analysis & Development</br>
 🎓 Graduated in Animation Design</br>
 💭 Studying Information Security</br>
 🛡️ Security Intern</br>
-🎨 [Illustrator](https://lilypills.carrd.co)
+
 
 
 <!-- ## 🌐 Socials:
+🎨 [Illustrator](https://lilypills.carrd.co)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/lilypills_) 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/lilypills_) 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/LilyPills) 
